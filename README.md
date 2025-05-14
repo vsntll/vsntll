@@ -1,9 +1,9 @@
 ### Hi there 👋
-My name is Avie Vasantlal and as of Jan 2024, I am a 2nd year Computer Engineering Student at Penn State.
-I have a background of C++, Python and Java which I plan to display here on my Github going into the future.
+My name is Avie Vasantlal and as of May 2025, I am a 3rd year Computer Engineering Major with Computer Science Major attending Penn State.
+I have a background of C++, C, Python and Java which I plan to display here on my Github going into the future.
 I have a larger understanding of Electrical Engineering and may commit some Arduino code and such going into the future.
 
-In my current classes, I am coding in C, Java, Javascript and Python.
+In my current classes, I am coding in C, Java, C++, Jupyter Notebook, Javascript and Python.
 
 
 <!--
