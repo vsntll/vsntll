@@ -5,7 +5,7 @@ I have a larger understanding of Electrical Engineering and may commit some Ardu
 
 
 I am currently experienced in C, Java, C++, Jupyter Notebook, Javascript and Python.
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vsntll6&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="Devin-M5706" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vsntll&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="Devin-M5706" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vsntll&show_icons=true&theme=tokyonight&locale=en" alt="Devin-M5706" /></p>
 
