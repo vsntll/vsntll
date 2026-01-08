@@ -4,12 +4,15 @@ I have a background of C++, C, Python and Java which I plan to display here on m
 I have a larger understanding of Electrical Engineering and may commit some Arduino code and such going into the future alongside some Machine Learning projects I am working on.
 
 
-I am currently experienced in C, Java, C++, Jupyter Notebook, Javascript and Python.
+I am currently experienced in C, Embedded C, C++, Python, Go, C, Rust and Java
+
+
+<!--
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vsntll&langs_count=10&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="vsntll" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vsntll&show_icons=true&theme=tokyonight&locale=en" alt="vsntll" /></p>
 
-<!--
 **vsntll/vsntll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
