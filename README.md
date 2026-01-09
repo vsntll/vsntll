@@ -7,6 +7,9 @@ I have a larger understanding of Electrical Engineering and may commit some Ardu
 I am currently experienced in C, Embedded C, C++, Python, Go, C, Rust and Java
 
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vsntll&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vsntll&theme=aura_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vsntll&theme=aura_dark&utcOffset=8)
+
 <!--
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vsntll&langs_count=10&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="vsntll" /></p>
